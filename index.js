@@ -1,4 +1,4 @@
-module.export = function markdownRawPlugin (options) {
+module.exports = function markdownRawPlugin (options) {
   return {
     name: 'vite-raw-plugin',
     transform (code, id) {
