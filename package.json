@@ -1,6 +1,6 @@
 {
   "name": "vite-raw-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "raw-loader for vite transfrom code to string",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,9 @@
   "bugs": {
     "url": "https://github.com/zhangyuang/vite-raw-plugin/issues"
   },
-  "keywords": ["vite", "raw"],
+  "keywords": [
+    "vite",
+    "raw"
+  ],
   "homepage": "https://github.com/zhangyuang/vite-raw-plugin#readme"
 }
