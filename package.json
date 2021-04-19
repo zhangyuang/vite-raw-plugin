@@ -1,0 +1,20 @@
+{
+  "name": "vite-raw-plugin",
+  "version": "1.0.0",
+  "description": "raw-loader for vite transfrom code to string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangyuang/vite-raw-plugin.git"
+  },
+  "author": "zhangyuang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangyuang/vite-raw-plugin/issues"
+  },
+  "keywords": ["vite", "raw"],
+  "homepage": "https://github.com/zhangyuang/vite-raw-plugin#readme"
+}
