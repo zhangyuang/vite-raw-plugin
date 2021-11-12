@@ -1,3 +1,6 @@
+/**
+ * @param {{ fileRegex: RegExp }} options 
+ */
 module.exports = function markdownRawPlugin (options) {
   return {
     name: 'vite-raw-plugin',
