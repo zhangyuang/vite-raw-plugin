@@ -36,6 +36,6 @@ use in js file.
 ```js
 import content from 'xxx.md'
 
-const md = requore('markdown-it')
+const md = require('markdown-it')
 md.render(content)
 ```
