@@ -39,3 +39,14 @@ import content from 'xxx.md'
 const md = require('markdown-it')
 md.render(content)
 ```
+
+### TypeScript
+
+To use with TypeScript, create a ``global.d.ts`` in your ``./src/`` directory
+
+```ts
+declare module '*.md' {
+  const content: string
+  export default content
+}
+```
