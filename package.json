@@ -1,6 +1,6 @@
 {
   "name": "vite-raw-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "raw-loader for vite transfrom code to string",
   "main": "index.js",
   "types": "index.d.ts",
